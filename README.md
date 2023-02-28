@@ -5,6 +5,7 @@ This app is based on this [SpringBoot Tutorial](https://www.freecodecamp.org/new
 
 ## Technologies Used
 |Technology|Usage|
+|---|---|
 |Bootify||
 |Hibernate||
 |Spring Boot ||
